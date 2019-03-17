@@ -6,7 +6,9 @@ Wind forecast some cities of Turkey.
 
 Results:
 
-*	MAPE  : % 5,755073
+------------
+
+* MAPE  : % 5,755073
 
   ![|Solid](https://raw.githubusercontent.com/xhkocatepe/ml.wind/master/images/AMASRA_RND_24_HOUR.png)
 
